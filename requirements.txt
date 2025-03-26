@@ -1,0 +1,6 @@
+transformers
+torch
+gradio
+datasets
+sacremoses
+accelerate>=0.26.0
